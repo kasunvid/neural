@@ -1,6 +1,5 @@
 absl-py==0.12.0
 alabaster==0.7.12
-albumentations==0.1.12
 altair==4.1.0
 appdirs==1.4.4
 argon2-cffi==20.1.0
@@ -132,7 +131,6 @@ imageio==2.4.1
 imagesize==1.2.0
 imbalanced-learn==0.4.3
 imblearn==0.0
-imgaug==0.2.9
 importlib-metadata==3.10.1
 importlib-resources==5.1.2
 imutils==0.5.4
